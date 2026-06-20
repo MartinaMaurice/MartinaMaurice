@@ -2,7 +2,7 @@
 
 # Hi, I'm Martina Maurice 👋
 
-### Full Stack Developer | Software Engineering Student
+### Software Engineer | Full Stack Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+building+modern+web+applications;Turning+ideas+into+clean+and+functional+products;Writing+code+that+is+simple%2C+scalable%2C+and+useful" />
 
@@ -12,11 +12,12 @@
 
 ## About Me
 
-I'm a Software Engineering student and Full Stack Developer passionate about building modern, efficient, and user-focused applications.
+I'm a **Software Engineer** with a strong foundation in application, web, and mobile development. I focus on building scalable, efficient, and user-centered solutions that turn ideas into practical digital products.
 
-I enjoy working across both frontend and backend development, creating smooth user experiences, building reliable systems, and continuously improving the way I write and structure code.
+I enjoy working across the full development stack — from crafting responsive interfaces to designing backend logic, managing databases, and applying software engineering best practices to write clean, maintainable code.
 
-Currently, I’m gaining real-world experience as a Full Stack Developer Intern, working with Angular and Laravel in a collaborative development environment.
+I’m passionate about solving real-world problems through technology, learning continuously, and contributing to impactful projects in dynamic development environments.
+
 
 ---
 
