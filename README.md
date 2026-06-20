@@ -53,23 +53,23 @@ Currently, I’m gaining real-world experience as a Full Stack Developer Intern,
 * Learning more about real-world software architecture
 
 ---
-## <div align="center">Let's Connect</div>
+<h2 align="center">Let's Connect</h2>
 
 <div align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/martinamaurice">
-      <img src="https://img.shields.io/badge/LinkedIn-Martina%20Maurice-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:martinamaurice.280@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://github.com/MartinaMaurice">
-      <img src="https://img.shields.io/badge/GitHub-MartinaMaurice-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
+  <a href="https://www.linkedin.com/in/martinamaurice">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:martinamaurice.280@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/MartinaMaurice">
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
+  </a>
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
