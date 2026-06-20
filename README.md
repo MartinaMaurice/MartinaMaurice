@@ -53,30 +53,28 @@ Currently, I’m gaining real-world experience as a Full Stack Developer Intern,
 * Learning more about real-world software architecture
 
 ---
-## Let's Connect
+## <div align="center">Let's Connect</div>
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/martinamaurice">
-  <img src="https://img.shields.io/badge/LinkedIn-Martina%20Maurice-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:martinamaurice.280@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/MartinaMaurice">
-  <img src="https://img.shields.io/badge/GitHub-MartinaMaurice-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+  <p>
+    <a href="https://www.linkedin.com/in/martinamaurice">
+      <img src="https://img.shields.io/badge/LinkedIn-Martina%20Maurice-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:martinamaurice.280@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://github.com/MartinaMaurice">
+      <img src="https://img.shields.io/badge/GitHub-MartinaMaurice-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-```txt
-Building full-stack applications with clean code, thoughtful design, and continuous learning.
-```
+### Thanks for visiting my profile 🤍
+
+### Code. Build. Learn. Repeat.
 
 </div>
