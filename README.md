@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | Software Engineering Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=I+build+clean+and+scalable+web+applications;I+love+turning+ideas+into+real+products;Always+learning%2C+building%2C+and+improving" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+building+modern+web+applications;Turning+ideas+into+clean+and+functional+products;Writing+code+that+is+simple%2C+scalable%2C+and+useful" />
 
 </div>
 
@@ -53,41 +53,30 @@ Currently, I’m gaining real-world experience as a Full Stack Developer Intern,
 * Learning more about real-world software architecture
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MartinaMaurice&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinaMaurice&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-
-</div>
-
----
-
-## Connect With Me
+## Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/martinamaurice">
   <img src="https://img.shields.io/badge/LinkedIn-Martina%20Maurice-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="mailto:martinamaurice.280@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="https://github.com/MartinaMaurice">
   <img src="https://img.shields.io/badge/GitHub-MartinaMaurice-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### Code. Build. Learn. Repeat.
+```txt
+Building full-stack applications with clean code, thoughtful design, and continuous learning.
+```
 
 </div>
